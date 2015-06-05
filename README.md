@@ -1,5 +1,5 @@
 # Introduction of Alpha Strategy Simulation.
-This code is written by R.
+This code is written by R.\n
 This code simulates the trading process of Chinese alpha strategy funds in 2014. 
 The simulation period is from 2010.10.05 to 2014.12.23, 200 weeks data and the later 60 weeks is the trading weeks.
 
